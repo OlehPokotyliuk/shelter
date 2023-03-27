@@ -92,7 +92,7 @@ body{
     border-bottom: .3rem solid #F1CDB3;
     cursor: pointer;
 }
-
+/* MENU FOR SECOND PAGE START  */
 .menu-item-two{
     list-style: none;
     color: #545454;
@@ -108,7 +108,7 @@ body{
     border-bottom: .3rem solid #F1CDB3;
     cursor: pointer;
 }
-/*END MENU RIGHT-SIDE*/
+/* MENU FOR SECOND PAGE END  */
 
 /*HEADER*/
 .head{
@@ -747,15 +747,18 @@ body{
        .head-container-two{
         width: 768px;
     }
+    /*HEAD FOR SECOND PAGE START*/
     .head-wrap-two{
         width: 708px;
         overflow: hidden;
     }
+      /*NAV FOR SECOND PAGE START*/
     .navigation-two{
         height: 120px;
         margin-bottom: 50px;
     }
-    
+      /*NAV FOR SECOND PAGE END*/
+    /*HEAD FOR SECOND PAGE END*/
     .head{
         flex-wrap: wrap;
         justify-content: center;
@@ -1110,7 +1113,7 @@ body{
     .part-two-wrapper-center{
         flex-direction: column;
     }
-    /* dddddddddddddddddddddddddddddddddddddddddddddddd */
+
 
    
     .part-two-wrapper-center-arrow-right-clone{
